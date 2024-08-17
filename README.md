@@ -47,6 +47,6 @@ This project is licensed under the MIT License
 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: your.email@example.com
+Email: stephybless11@gmail.com
 GitHub: StephyBless
 LinkedIn: Stephy bless
